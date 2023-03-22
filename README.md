@@ -11,7 +11,12 @@ Skills: Python / R / SQL / SQL / HTML / Java / C# /JavaScript / CSS / XML / Andr
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Manroop/22)  
 
+## Examples of my Work:
+https://github.com/Manroop22/ToDoList
 
+https://github.com/Manroop22/FamilySchedulingApplication
+
+https://github.com/Manroop22/cosc304-website-project
 
 
 [![Manroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manroop22)](https://github.com/anuraghazra/github-readme-stats)
